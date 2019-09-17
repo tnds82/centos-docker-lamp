@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER Wesley Render <wes.render@outlook.com>
+MAINTAINER Tnds82
 
 # Install varioius utilities
 RUN yum -y install curl wget unzip git nano \
